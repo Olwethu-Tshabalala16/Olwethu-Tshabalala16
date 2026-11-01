@@ -1,7 +1,7 @@
 <h1 align="center">👋🏾 Hey, I'm Olwethu Tshabalala</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=E50914&center=true&vCenter=true&width=700&lines=Backend+Developer;Data+Engineer;Java+%7C+Python+%7C+SQL;Building+Data-Driven+Systems" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=E50914&center=true&vCenter=true&width=700&lines=Backend+Developer;Aspiring+Data+Engineer;Java+%7C+Python+%7C+SQL;Building+Data-Driven+Systems" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <strong>Backend Engineering • Data Engineering • Cloud Systems</strong>
+  <strong>Aspiring Backend Engineering • Aspiring Data Engineer • Cloud Systems</strong>
 </p>
 
 <p align="center">
